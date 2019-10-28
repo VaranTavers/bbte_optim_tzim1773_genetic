@@ -1,0 +1,12 @@
+[package]
+name = "bbte_optim_tzim1773_genetic"
+version = "0.1.0"
+authors = ["VaranTavers <tasnadi98@freemail.hu>"]
+edition = "2018"
+description = "Genetic (like) algortihm implemented with generics by VaranTavers"
+license = "GNU GPLv3"
+keywords = ["genetic", "bbte"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "^0.7.2"
