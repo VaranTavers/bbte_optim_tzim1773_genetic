@@ -6,7 +6,9 @@ edition = "2018"
 description = "Genetic (like) algortihm implemented with generics by VaranTavers"
 license = "GNU GPLv3"
 keywords = ["genetic", "bbte"]
+documentation = "https://github.com/VaranTavers/bbte_optim_tzim1773_genetic.git"
+homepage = "https://github.com/VaranTavers/bbte_optim_tzim1773_genetic.git"
+repository = "https://github.com/VaranTavers/bbte_optim_tzim1773_genetic.git"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
 rand = "^0.7.2"
